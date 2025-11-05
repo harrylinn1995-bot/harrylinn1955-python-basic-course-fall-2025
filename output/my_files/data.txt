@@ -1,0 +1,5 @@
+Hello, World!
+Python programming
+File handling example
+နေကောင်းလား?
+最后一行
